@@ -125,5 +125,5 @@
 	</div>
 	<br />
 	<!-- PLEASE DO NOT REMOVE THE BUILT BY -->
-	<span class="creator">Built by Jonny Evans</a><br /></span>
+	<span class="creator">Built by Jonny Evan</span>
 </footer>
