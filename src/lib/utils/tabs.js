@@ -63,19 +63,19 @@ export const tabs = [
             },
             {
                 icon: 'history_edu',
-                label: 'Constitution',
+                label: 'Rule Change Log',
                 dest: '/constitution',
             },
             {
                 icon: 'sports_football',
-                label: 'Go to Sleeper',
+                label: 'View League in Sleeper',
                 dest: `https://sleeper.app/leagues/${leagueID}`,
             },
         ]
     },
     {
         icon: 'lightbulb',
-        label: 'Resources',
+        label: 'Useful Stuff',
         dest: '/resources',
     },
 ];
