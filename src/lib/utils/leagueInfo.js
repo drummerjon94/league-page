@@ -25,7 +25,6 @@ export const managers = [
        "managerID": "578560512908898304",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Jonny",
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-       "location": "Milton Keynes", // (optional)
        "bio": "The baddest manager in town",
        "photo": "/managers/jonny.png", // square ratio recommended (no larger than 500x500)
        "favoriteTeam": "pit", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -45,7 +44,6 @@ export const managers = [
        "managerID": "578589932973498368",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Harry",
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-       "location": "Burgess Hill", // (optional)
        "bio": "Two-time champ and Saquon fanboy",
        "photo": "/managers/everyone.png", // square ratio recommended (no larger than 500x500)
        "favoriteTeam": "nyg", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -65,7 +63,6 @@ export const managers = [
        "managerID": "578975556536672256",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Ross",
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-       "location": "Manchester", // (optional)
        "bio": "Two-time champ, with an asterix",
        "photo": "/managers/everyone.png", // square ratio recommended (no larger than 500x500)
        "favoriteTeam": "jax", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -85,7 +82,6 @@ export const managers = [
        "managerID": "969212775710912512",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Charlie",
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-       "location": "Omagh", // (optional)
        "bio": "Original founder of the league - briefly lost love for fantasy football but has come back swinging.",
        "photo": "/managers/everyone.png", // square ratio recommended (no larger than 500x500)
        "favoriteTeam": "sea", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -105,7 +101,6 @@ export const managers = [
        "managerID": "578198399849893888",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Kristof",
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-       "location": "Sheffield", // (optional)
        "bio": "OG Flop Boi - sexy team but still yet to make the Championship game.",
        "photo": "/managers/everyone.png", // square ratio recommended (no larger than 500x500)
        "favoriteTeam": "mia", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -125,7 +120,6 @@ export const managers = [
        "managerID": "609045409725210624",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Stefan",
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-       "location": "Sweden", // (optional)
        "bio": "Swedish millionaire. Ruthless. Will fight to the death",
        "photo": "/managers/everyone.png", // square ratio recommended (no larger than 500x500)
        "favoriteTeam": "tb", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -145,7 +139,6 @@ export const managers = [
        "managerID": "578933467732029440",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Sam",
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-       "location": "TBC", // (optional)
        "bio": "Part of the league since inception. Has enough picks to fill the ocean.",
        "photo": "/managers/everyone.png", // square ratio recommended (no larger than 500x500)
        "favoriteTeam": "sf", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -165,7 +158,6 @@ export const managers = [
        "managerID": "578897887224700928",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Matt",
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-       "location": "Peterborough", // (optional)
        "bio": "Member since day 1. Has patiently built a strong team and recently made playoffs for the first time",
        "photo": "/managers/everyone.png", // square ratio recommended (no larger than 500x500)
        "favoriteTeam": "chi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -185,7 +177,6 @@ export const managers = [
        "managerID": "578634422664871936",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Jon",
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-       "location": "TBC", // (optional)
        "bio": "Member since day 1. Always a contender.",
        "photo": "/managers/everyone.png", // square ratio recommended (no larger than 500x500)
        "favoriteTeam": "chi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -205,7 +196,6 @@ export const managers = [
        "managerID": "1156248882016407552",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Benjamin",
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-       "location": "Italy", // (optional)
        "bio": "New kid on the block.",
        "photo": "/managers/everyone.png", // square ratio recommended (no larger than 500x500)
        "favoriteTeam": "min", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
