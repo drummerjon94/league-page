@@ -146,7 +146,7 @@ export const managers = [
        "name": "Sam",
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "England", // (optional)
-       "bio": "Part of the league since inception. Has enough picks to fill the ocean.",
+       "bio": "Part of the league since inception. Has enough picks to feed a lot of third-world countries.",
        "photo": "/managers/everyone.png", // square ratio recommended (no larger than 500x500)
        "favoriteTeam": "sf", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
        "mode": "Rebuild", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
