@@ -26,7 +26,7 @@ export const managers = [
        "name": "Jonny",
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "England", // (optional)
-       "bio": "The baddest manager in town. Quite literally.",
+       "bio": "First-ever Toilet Bowl champ (which Sleeper has conveniently wiped).",
        "photo": "/managers/jonny3.png", // square ratio recommended (no larger than 500x500)
        "favoriteTeam": "pit", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
        "mode": "Win now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
