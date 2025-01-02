@@ -166,7 +166,7 @@ export const managers = [
        "name": "Matt",
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "England", // (optional)
-       "bio": "Member since day 1. Has patiently built a strong team and recently made playoffs for the first time",
+       "bio": "Long suffering Bears fan. Has patiently built an exciting team.",
        "photo": "/managers/matt.png", // square ratio recommended (no larger than 500x500)
        "favoriteTeam": "chi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
        "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -186,7 +186,7 @@ export const managers = [
        "name": "Jon",
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "England", // (optional)
-       "bio": "Member since day 1. Always a contender.",
+       "bio": "Day 1 member, always contending. No picture of him exists.",
        "photo": "/managers/jon.png", // square ratio recommended (no larger than 500x500)
        "favoriteTeam": "nyj", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
        "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -217,7 +217,7 @@ export const managers = [
        },
        "favoritePlayer": 6794, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
        "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-       "philosophy": "Unknown for now. In planning.",
+       "philosophy": "You can't be disappointed if you don't set a lineup.",
        "tradingScale": 1, // 1 - 10
        "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
      },
