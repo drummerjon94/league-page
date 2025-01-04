@@ -84,7 +84,7 @@
     
     <h2 class="noUnderscore">Key events will be listed here</h2>
     
-    <h3 class="subSectionHeading">Rule Changes</h3>
+    <h3 class="subSectionHeading">1. Rule Changes</h3>
     
     <p>2025: 3 Taxi Slots introduced for rookies only</p>
     
