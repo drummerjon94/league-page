@@ -88,10 +88,11 @@
 
 <h3 class="subSectionHeading">2. Manager Changes</h3>
     
-    <p>2020: Neal replaced with Alex</p>
+    <p>2020: League formed with Charlie, Harry, Jonny, Kristof, Neil, Neal, Jon, Matt, Sam, Ross</p>
+    <p>2020: Neal replaced by Stefan</p>
     <p>2022: Neil replaced by Alex</p>
     <p>2022: Charlie replaced by Dan</p>
-    <p>2023: Alex replaced by Charlie</p>
+    <p>2023: Alex replaced by Charlie, first ever mini-draft held between Charlie and Dan</p>
     <p>2024: Dan replaced by Benjamin</p>
     
 </div>
