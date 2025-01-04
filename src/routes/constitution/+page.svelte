@@ -85,10 +85,7 @@
     <h3 class="subSectionHeading">1. Rule Changes</h3>
     
     <p>2025: 3 Taxi Slots introduced for rookies only</p>
-    
-</div>
 
-<div class="constitution">
 <h3 class="subSectionHeading">2. Manager Changes</h3>
     
     <p>2025: 3 Taxi Slots introduced for rookies only</p>
