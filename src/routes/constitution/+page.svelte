@@ -81,13 +81,18 @@
 
 <div class="constitution">
     <h1 class="noUnderscore">A Game of Inches Change Log</h1>
-    
-    <h2 class="noUnderscore">Key events will be listed here</h2>
-    
+        
     <h3 class="subSectionHeading">1. Rule Changes</h3>
     
     <p>2025: 3 Taxi Slots introduced for rookies only</p>
     
-    <p class="underscore">Starters</p>
+</div>
 
+<div class="constitution">
+<h3 class="subSectionHeading">2. Manager Changes</h3>
+    
+    <p>2025: 3 Taxi Slots introduced for rookies only</p>
+    <p>2025: 3 Taxi Slots introduced for rookies only</p>
+    <p>2025: 3 Taxi Slots introduced for rookies only</p>
+    
 </div>
