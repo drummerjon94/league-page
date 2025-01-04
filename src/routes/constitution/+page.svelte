@@ -88,8 +88,10 @@
 
 <h3 class="subSectionHeading">2. Manager Changes</h3>
     
-    <p>2025: 3 Taxi Slots introduced for rookies only</p>
-    <p>2025: 3 Taxi Slots introduced for rookies only</p>
-    <p>2025: 3 Taxi Slots introduced for rookies only</p>
+    <p>2020: Neal replaced with Alex</p>
+    <p>2022: Neil replaced by Alex</p>
+    <p>2022: Charlie replaced by Dan</p>
+    <p>2023: Alex replaced by Charlie</p>
+    <p>2024: Dan replaced by Benjamin</p>
     
 </div>
