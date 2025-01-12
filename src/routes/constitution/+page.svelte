@@ -94,5 +94,6 @@
     <p>2022: Charlie replaced by Dan</p>
     <p>2023: Alex replaced by Charlie, first ever mini-draft held between Charlie and Dan</p>
     <p>2024: Dan replaced by Benjamin</p>
+    <p>2025: Benjamin replaced by Jamie</p>
     
 </div>
