@@ -80,7 +80,7 @@
 </style>
 
 <div class="constitution">
-    <h1 class="noUnderscore">A Game of Inches Change Log</h1>
+    <h1 class="noUnderscore">Game of Inches Change Log</h1>
         
     <h3 class="subSectionHeading">1. Rule Changes</h3>
     
